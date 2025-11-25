@@ -11,7 +11,7 @@ College Bot — Full single-file:
 Requires: pip install python-telegram-bot==13.15
 """
 
-import imghdr
+import os
 import sqlite3
 import csv
 from datetime import datetime, date
