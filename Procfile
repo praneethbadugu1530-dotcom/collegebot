@@ -1,1 +1,1 @@
-worker: python college_bot.py
+web: python college_bot.py
