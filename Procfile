@@ -1,2 +1,2 @@
-worker:
-  command: python college_bot.py
+worker: python college_bot.py
+
