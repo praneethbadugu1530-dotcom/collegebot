@@ -1,1 +1,1 @@
-worker:python college_bot.py
+worker: python3 college_bot.py
