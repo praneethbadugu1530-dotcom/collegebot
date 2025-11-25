@@ -1,3 +1,2 @@
 python-telegram-bot==13.15
-sqlite3-binary
-imghdr-py
+Pillow
